@@ -1,6 +1,6 @@
-![Project preview](https://github.com/catherineisonline/minimalistic-developer-portfolio/blob/main/public/project-preview.png?raw=true)
+<!-- ![Project preview](https://github.com/catherineisonline/minimalistic-developer-portfolio/blob/main/public/project-preview.png?raw=true)
 ![Project preview](https://github.com/catherineisonline/minimalistic-developer-portfolio/blob/main/public/project-preview-3.png?raw=true)
-![Project preview](https://github.com/catherineisonline/minimalistic-developer-portfolio/blob/main/public/project-preview-2.png?raw=true)
+![Project preview](https://github.com/catherineisonline/minimalistic-developer-portfolio/blob/main/public/project-preview-2.png?raw=true) -->
 
 # Personal Portfolio
 <a href="https://minimalistic-developer-portfolio.vercel.app/">Portfolio</a> : A glimpse into a web development expertise of a fictional character. Explore a selection of interactive and responsive websites, crafted with the latest technologies such as ReactJS, Vanilla JavaScript, RESTful API, CSS, SASS, SCSS, Tailwind, and HTML. Showcasing their skills and experience in designing and developing top-notch web solutions. Please not that the name and contact details of this person are fictional. 
