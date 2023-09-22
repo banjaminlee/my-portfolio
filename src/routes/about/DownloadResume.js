@@ -1,10 +1,10 @@
 import DownloadIcon from "../../assets/images/download-icon.png";
-import Resume from "../../assets/documents/Banjamin Lee(Full stack).pdf";
+import Resume from "../../assets/documents/Kristian's Resume.pdf";
 
 const DownloadResume = () => {
   return (
     <section>
-      <a className="download-btn" href={Resume} download="Banjamin Lee">
+      <a className="download-btn" href={Resume} download="Kristian Barth">
         <img
           src={DownloadIcon}
           alt="Resume download button"

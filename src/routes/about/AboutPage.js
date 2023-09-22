@@ -11,7 +11,7 @@ import { useEffect } from "react";
 
 const About = () => {
   useEffect(() => {
-    document.title = "About | Banjamin Lee";
+    document.title = "About | Kristian Barth";
   });
   return (
     <article className="about-main">

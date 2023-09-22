@@ -6,7 +6,7 @@ const Footer = () => {
         target="_blank"
         rel="noreferrer"
       >
-        Designed & Built by Banjamin &copy;2023
+        Designed & Built by Kristian &copy;2023
       </a>
     </article>
   );
